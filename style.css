@@ -3,7 +3,7 @@ body {
   padding: 0;
 }
 
-h2, p {
+h1, p {
   margin: 10px;
 }
 
@@ -29,4 +29,14 @@ ul li a {
 
 ul li a:hover {
   background-color: #111111;
+}
+
+body{
+  background-color: aliceblue;
+}
+
+img {
+ width: 150px;
+  height: 150px;
+  border-radius: 50%;
 }
